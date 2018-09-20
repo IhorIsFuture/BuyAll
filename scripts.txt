@@ -1,0 +1,10 @@
+Frontend /////
+
+npm install --save angular-6-social-login // For (facebook, google signin)
+
+ng serve --ssl 1 --ssl-key "ssl/local.brianflove.com.key" --ssl-cert "ssl/local.brianflove.com.crt" // For using https For (facebook, google signin)
+
+
+Backend/////
+
+//npm install node-cache --save
