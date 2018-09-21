@@ -1,2 +1,2 @@
 # BuyAll
-My Shop1
+My Shop2
